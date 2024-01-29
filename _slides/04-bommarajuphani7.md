@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+training for develoers training and awesom caption
 
 ![dinotocat](https://octodex.github.com/images/dinotocat.png)
 {: .center}
