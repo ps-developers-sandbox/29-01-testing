@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: jan 30,2024
+- Facilitator: @rajkumarinfomagnus
 
 ## Class Resources
 
